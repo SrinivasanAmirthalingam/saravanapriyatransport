@@ -299,10 +299,9 @@ function App() {
   return (
     <div className="billing-app">
       <div className="billing-card">
-        <header className="header-section header-centered">
+        <header className="header-section">
           <div className="header-title-wrap">
-            <p className="eyebrow">Transport Billing</p>
-            <h1>Bill Details</h1>
+            <span className="eyebrow">Transport Billing</span>
           </div>
         </header>
 
